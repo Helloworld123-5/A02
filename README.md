@@ -154,6 +154,10 @@ This updates the local project with changes from the remote repository.
 
 ---
 
+## Conclusion
+
+Git, GitHub, and Visual Studio Code work together to make it easier to create projects, track changes, and store work online. Learning this workflow makes it easier to manage projects and collaborate with others.
+
 ## References
 
 GitHub Docs. Git and GitHub Documentation.  
@@ -164,7 +168,3 @@ https://git-scm.com/doc
 
 Visual Studio Code. Version Control Documentation.  
 https://code.visualstudio.com/docs/sourcecontrol/overview
-
-## Conclusion
-
-Git, GitHub, and Visual Studio Code work together to make it easier to create projects, track changes, and store work online. Learning this workflow makes it easier to manage projects and collaborate with others.
